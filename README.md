@@ -1,5 +1,5 @@
 # Hi There!
-Francesco Here, Python Developer and Electronics Technician
+Francesco Here, System Integrator and Python Developer
 
 ## Bio
 24 y/o, studied electronics at school and programming by myself. Feel free to look at the repositories i created!
