@@ -2,7 +2,7 @@
 Francesco Here, Python Developer and Electronics Technician
 
 ## Bio
-23 y/o, studied electronics at school and programming by myself. Feel free to look at the repositories i created!
+24 y/o, studied electronics at school and programming by myself. Feel free to look at the repositories i created!
 
 ### About me
 - 🌱 I’m currently learning Go & NodeJS
